@@ -1,8 +1,7 @@
 let maxTime = 400;
 let strokesPerFrame = 25;
 
-let imgNames = "img.png";  // ローカルファイルか、適切なオンラインURLに置き換えてください
-
+let imgNames = "img.png";
 let img;
 let imgIndex = -1;
 let brightnessShift;
