@@ -1,7 +1,7 @@
 let maxTime = 400;
 let strokesPerFrame = 25;
 
-let imgNames = "img.png";
+let imgNames = "https://cdn.pixabay.com/photo/2023/02/01/09/23/miyajima-7760042_640.jpg";
 let img;
 let imgIndex = -1;
 let brightnessShift;
